@@ -1,2 +1,4 @@
-# webdev
-sample repository 
+#include stdio.h
+void main(){
+printf("abhrakanti jana");
+}
